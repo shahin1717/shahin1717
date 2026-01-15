@@ -1,5 +1,6 @@
-## Hi there 👋
-
+### Hi there 👋 
+# 💫 About Me:
+I’m [**Shahin**](https://linkedin.com/in/https://www.linkedin.com/in/shahin-alakparov-78832a274), a AI/ML engineer based in Azerbaijan.
 <!--
 **shahin1717/shahin1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +17,14 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-Computer Science student with strong foundations in machine learning, data science, and backend<br>development. Experienced in building practical AI models and full-stack applications using Python,<br>PyTorch, FastAPI, and MySQL. Skilled in mathematical reasoning and problem-solving; seeking<br>opportunities in ML engineering or applied AI roles.
+
+I build intelligent systems, automate anything I can, and explore how mathematical thinking turns into real-world machine learning solutions.
+
+If a problem looks interesting enough, I’ll prototype it, train it, deploy it, and iterate until it becomes something useful.
+
+My main stack includes Python, PyTorch, FastAPI, and MySQL — but I’m just as comfortable diving into backend development, data engineering, or algorithmic problem-solving.
+
+I enjoy creating clean, logical systems and understanding things *deeply*, not just following documentation.opportunities in ML engineering or applied AI roles.
 
 
 ## 🌐 Socials:
