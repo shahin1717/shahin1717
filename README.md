@@ -2,6 +2,7 @@
 I’m [**Shahin**](https://linkedin.com/in/https://www.linkedin.com/in/shahin-alakparov-78832a274), a AI/ML engineer based in Azerbaijan.
 
 I build intelligent systems, automate anything I can, and explore how mathematical thinking turns into real-world machine learning solutions.
+
 My main stack includes *Python, PyTorch, FastAPI, and MySQL* — but I’m just as comfortable diving into backend development, data engineering, or algorithmic problem-solving.
 
 I enjoy creating clean, logical systems and understanding things *deeply*, not just following documentation.opportunities in ML engineering or applied AI roles.
