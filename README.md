@@ -1,4 +1,4 @@
-### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1710867267/91290/blob-hi.png?1710867267" width="25"> 
+### Hello there <img src="https://emojis.slackmojis.com/emojis/images/1645030248/53068/obi_wan.png?1645030248" width="25"> 
 I’m [**Shahin**](https://linkedin.com/in/https://www.linkedin.com/in/shahin-alakparov-78832a274), a AI/ML engineer based in Azerbaijan.
 
 I build intelligent systems, automate anything I can, and explore how mathematical thinking turns into real-world machine learning solutions.
