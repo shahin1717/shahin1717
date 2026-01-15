@@ -12,8 +12,9 @@ const shahin = {
   pronouns: "he" | "his",
   code: [Python, C, Java, HTML, CSS, JS],
   frameworks: [FastAPI, Flask],
+  libs: [NumPy, SciPy, Pandas, PyTorch, Scikit-learn, Ternserflow],
   databases: [MySQL, MongoDB, PostgreSQL], 
-  tools: [CI/CD, GITHUB, Docker]
+  tools: [Linux, CI/CD, GITHUB, Docker]
 }
 ```
 
