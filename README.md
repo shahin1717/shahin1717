@@ -29,7 +29,7 @@ const shahin = {
 
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahin1717&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shahin1717&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&combine_all_yearly_contributions=true)<br/>
 
 
 ![](https://github-readme-stats-mirror.vercel.app/api?username=shahin1717&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&count_private=false&layout=compact)<br/>
