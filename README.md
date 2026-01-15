@@ -39,6 +39,7 @@ const shahin = {
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahin1717&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats-mirror.vercel.app/api?username=shahin1717)
 
 ---
 
