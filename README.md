@@ -5,7 +5,7 @@ I build intelligent systems, automate anything I can, and explore how mathematic
 
 My main stack includes *Python, PyTorch, FastAPI, and MySQL* — but I’m just as comfortable diving into backend development, data engineering, or algorithmic problem-solving.
 
-I enjoy creating clean, logical systems and understanding things *deeply*, not just following documentation.opportunities in ML engineering or applied AI roles.
+I enjoy creating clean, logical systems and understanding things *deeply*, not just following documentation.
 
 ```javascript
 const shahin = {
