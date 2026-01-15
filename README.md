@@ -25,7 +25,7 @@ const shahin = {
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bye%20Bye-green?style=for-the-badge&logoSize=amg" width="120"/> 
+  <img src="https://img.shields.io/badge/Thanks for visiting my profile!-blue?style=for-the-badge&logoSize=amg" width="320"/> 
   <img src="https://emojis.slackmojis.com/emojis/images/1643514684/6863/blob_highfive.png?1643514684" width="60"/>
 </p>
 
