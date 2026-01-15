@@ -24,8 +24,5 @@ const shahin = {
 - I don't watch anime, but Attack on Titan is my fav anime  
 
 
-#### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahin-alakparov-78832a274/) 
+![Static Badge](https://img.shields.io/badge/Bye%20Bye-red?style=for-the-badge&logoSize=amg)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
