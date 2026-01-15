@@ -35,8 +35,7 @@ const shahin = {
 
 
 ![](https://github-readme-stats-mirror.vercel.app/api?username=shahin1717&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-profile-trophy.vercel.app/?username=shahin1717&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-readme-stats-mirror.vercel.app/api?username=shahin1717)
+
 
 #### 🏆 GitHub Trophies
 
